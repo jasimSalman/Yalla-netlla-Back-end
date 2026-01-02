@@ -4,6 +4,7 @@
   "description": "This is our third project at GA",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "dev": "node --watch server.js"
   },
   "author": "Jasim",
